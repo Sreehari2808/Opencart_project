@@ -32,7 +32,8 @@ Scenario Outline: To validate Searching  product and reviewing
 	
 Examples: 
 |srchbar|	
-|mac	|	
+|mac	|
+|mac    |	
 
 
 Scenario: To validate the password change functionality

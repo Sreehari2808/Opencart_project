@@ -56,7 +56,7 @@ public class Definition_Register extends Library_opencart{
 	public void enter_useremail() throws Throwable 
 	{
 		registration = new Registerpage_opencart(driver);
-		registration.enter_email("demoopencart111@gmail.com");
+		registration.enter_email("demoopencart801@gmail.com");
 	}
 
 	@Then("^enter <telenumber>$")
